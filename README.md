@@ -1,2 +1,2 @@
 # springcloud-config
-SpringCloud 的config配置中心练习
+在下第一次练习使用GitHub
